@@ -25,11 +25,6 @@ These instructions will guide you through setting up and running the project on 
     cd encode_decode
     ```
 
-3. Install the required packages.
-
-    ```sh
-    pip install -r requirements.txt
-    ```
 
 ### Running the Server
 
